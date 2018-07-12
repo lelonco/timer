@@ -1,0 +1,13 @@
+@media screen and (max-width:500px) {
+  body{
+    width: 100%;
+  }
+  .timer{
+    font-size: 12vw;
+  }
+  button{
+    width: 35vw;
+    height: auto;
+    font-size: 5vw;
+  }
+}
